@@ -8,7 +8,7 @@
 Summary:	Oslo Serialization library
 Name:		python-oslo.serialization
 Version:	2.27.0
-Release:	2
+Release:	3
 License:	Apache
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/o/oslo.serialization/oslo.serialization-%{version}.tar.gz
